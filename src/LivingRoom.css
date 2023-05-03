@@ -1,0 +1,5 @@
+.LivingRoom {
+    background-color: rgb(194, 161, 119);
+    grid-column: 3 / 5;
+    grid-row: 1 / 4;
+}

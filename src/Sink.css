@@ -1,0 +1,6 @@
+.Sink {
+    background-color: rgb(136, 76, 20);
+    height: 40px;
+    grid-column: 2 / 3;
+    grid-row: 1;
+}

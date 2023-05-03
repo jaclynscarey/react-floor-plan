@@ -1,0 +1,13 @@
+.Kitchen {
+    background-color: rgb(239, 157, 52);
+    grid-column: 5 / 6;
+    grid-row: 1 / 4;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: max-content;
+}
+
+.Kitchen > h2 {
+    margin: 0 auto;
+    grid-column: 1 / 3;
+}
