@@ -1,8 +1,9 @@
 .FloorPlan {
+    margin-top: 5vmin;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(5, 1fr);
-    height: 800px;
-    width: 800px;
+    min-height: 800px;
+    min-width: 800px;
     color: white;
 }
